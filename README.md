@@ -12,3 +12,5 @@ on TF-IDF word embeddings.
 •Utilizing Machine learning on job salary interval
 prediction with Random Forest, SVM, Logistic
 Regression, to select best model with accuracy of 0.71.
+### Look at Modelling for different model implementations
+### Look at Preprocessing for different Data Cleaning, Data Analysis, Feature Engineering and Bag of words Models
